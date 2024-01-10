@@ -4,4 +4,5 @@ bases:
   - service-frontend.yaml
   - deployment.yaml
   - deployment-frontend.yaml
+    # xx
 
